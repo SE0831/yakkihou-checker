@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pyyaml
+regex
+streamlit
+pandas
+pytest
+ruff
+mypy
+python-dotenv
+requests
